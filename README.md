@@ -21,4 +21,5 @@ Once the software has been released for the beta phase, you will be able to down
 The user guide for the software is currently unavailable, since it must still be updated with the current information about how to use the software. Please note that it is possible that this might only happen after the software is publically available.
 
 Have fun and enjoy flying!
+
 Kind regards, Sirot.
