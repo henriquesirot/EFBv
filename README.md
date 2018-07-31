@@ -10,7 +10,7 @@ In order to use the application, you must register for a free serial number, by 
 
 # Release
 
-The current release of the EFBv software is still in alpha phase, and is not available for the public. For the public beta phase, which should be in a few weeks, you need to register for a free educational use license.
+The current release of the EFBv software is still in closed beta phase, and is not available for the public. For the public beta phase, which should be in a few weeks, you need to register for a free educational use license.
 
 # Download
 
